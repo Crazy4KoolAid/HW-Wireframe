@@ -2,9 +2,84 @@
     *HW-Wireframe
     **/
 
-*{
+* {
     box-sizing: border-box;
     text-align: center;
 }
 
-section
+body {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    color:black;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+.SameBkgrdColor{
+    background-color: #ebebeb;
+
+}
+
+header{
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ebebeb;
+    width: 100%;
+}
+
+#Nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    background: #ebebeb;
+}
+
+#Aside {
+    background:#ebebeb;
+    padding: 20px;
+    float: right;
+    width: 48%;
+    height: 295px;
+    margin-bottom: 20px;
+    
+}
+
+#Article {
+    background: #777;
+    color: #ebebeb;
+    height: 200px;
+    padding: 20px;
+}
+
+#header123{
+    background: #ebebeb;
+    color: black;
+    padding: 20px;
+
+}
+
+#p {
+    background: #ebebeb;
+    color: black;
+    padding: 20px;
+    margin-top: 10px;
+
+}
+
+.Group {
+    background: #ebebeb;
+    padding: 20px;
+    float:left;
+    width:48%;
+    height: 295px;
+    margin-bottom: 20px;
+    
+}
+
+footer{
+    clear: both;
+    overflow: auto;
+    background: #ebebeb;
+    margin-top: 20px;
+    padding: 20px;
+}
