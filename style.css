@@ -13,7 +13,7 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
-    margin-left: 270px;
+    margin-left: 200px;
 }
 
 .SameBkgrdColor{
@@ -22,14 +22,14 @@ body {
 }
 
 header{
-    padding: 20px;
-    margin-bottom: 20px;
+    padding: 40px;
+    margin-bottom: 10px;
     background-color: #ebebeb;
     width: 100%;
 }
 
 #Nav {
-    padding: 20px;
+    padding: 40px;
     margin-bottom: 20px;
     width: 100%;
     background: #ebebeb;
@@ -39,7 +39,7 @@ header{
     background:#ebebeb;
     padding: 20px;
     float: right;
-    width: 48%;
+    width: 45%;
     height: 295px;
     margin-bottom: 20px;
     
@@ -50,6 +50,8 @@ header{
     color: #ebebeb;
     height: 200px;
     padding: 20px;
+    margin-top:40px;
+
 }
 
 #header123{
@@ -71,7 +73,7 @@ header{
     background: #ebebeb;
     padding: 20px;
     float:left;
-    width:48%;
+    width:52%;
     height: 295px;
     margin-bottom: 20px;
     
